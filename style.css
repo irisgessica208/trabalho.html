@@ -1,0 +1,55 @@
+body{
+    background: color #efefef;
+    font-family:"montserrat";
+
+}
+.titulo01{
+    text-align: center;
+    margin-top: 200px;
+}.parte01{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    margin-left: 800px;
+    margin-right: 800px;
+    margin-top: -20px;
+    border-radius: 30px;
+}.parte02{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    margin-left: 830px;
+    margin-right: 830px;
+    margin-top: -20px;
+    border-radius: 30px;
+}
+.imagem01{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    width: 0 auto;
+}
+.titulo02{
+    text-align: center;
+    margin-top: 10%;
+}
+.titulos{
+    font-size: 30px;
+    margin: 60px;
+    color: blue;
+    text-decoration: underline;
+}
+.parte02{
+    font-size: 24px;
+}
+.p{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 10%;
+}
+.vejamais{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 20px;
+}
